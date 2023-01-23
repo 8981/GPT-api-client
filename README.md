@@ -7,4 +7,4 @@
 
 <div style="width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/rNv39uBKjIsJYotwAp" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/rNv39uBKjIsJYotwAp">via GIPHY</a></p>
 
-![https://giphy.com/embed/rNv39uBKjIsJYotwAp](name-of-giphy.gif)
+![https://giphy.com/gifs/rNv39uBKjIsJYotwAp](.gif)
