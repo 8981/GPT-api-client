@@ -6,4 +6,6 @@
 ### 🔗 Single File Apps: https://learn.microsoft.com/en-us/dotnet/core/deploying/single-file/overview?WT.mc_id=DX-MVP-5004571&tabs=cli
 
 
+>How it work 
+
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/30123318/214145635-b5cde9aa-a54a-4c4e-bc6d-698d877f18f0.gif)
